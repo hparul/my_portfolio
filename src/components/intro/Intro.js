@@ -32,7 +32,7 @@ const Intro = () => {
             <a href
               ="#contact"
               className="contact">
-              Work With Me
+              Contact Me
             </a>
             <a href="#projects"
               className="project">
